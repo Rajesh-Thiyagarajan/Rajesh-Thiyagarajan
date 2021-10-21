@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajesh-Thiyagarajan
 - 👀 I’m interested in new technologies
-- 🌱 I’m currently learning mongo
+- 🌱 I’m currently learning mongo, chrome extention
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
