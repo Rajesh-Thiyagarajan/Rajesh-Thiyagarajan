@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @Rajesh-Thiyagarajan
-- 👀 I’m interested in new technologies
-- 🌱 I’m currently learning mongo, chrome extention
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Rajesh! 👋
 
-<!---
-Rajesh-Thiyagarajan/Rajesh-Thiyagarajan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Full Stack Developer** with **4+ years of experience**, passionate about building **robust and scalable web applications**.
+
+- 🌱 I’m currently expanding my knowledge in **Microservice architecture** and **Chrome extensions**.
+- 👀 I’m always eager to explore new technologies and tackle challenging problems.
+- 💼 I'm open to new opportunities in **software development**.
+
+## Skills
+
+- **Java**
+- **J2EE**
+- **Spring Boot**
+- **ReactJS**
+- **Redux**
+- **JavaScript**
+- **TypeScript** (Sound knowledge)
+- **HTML**
+- **CSS**
+- **Bootstrap**
+- **Git**
+- **PostgreSQL**
+
+## Connect with Me
+- LinkedIn: [linkedin.com/in/rajesh-t-1b5278164](https://www.linkedin.com/in/rajesh-t-1b5278164)
